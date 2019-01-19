@@ -1,6 +1,6 @@
 # Capture the King
 
-This is a (totally not chess) WebGL game where the objective is to capture the opponent's king rather than to force a checkmate. All pieces move according to normal rules, but special moves such as castling and en passant captures are deactivated. The scene is rendered with ray tracing and environment mapping; gameplay is carried out exclusively through keyboard control.
+This is a chess-like WebGL game where the objective is to capture the opponent's king. All pieces move according to normal rules, but special moves such as castling and en passant captures are deactivated. The scene is rendered with ray tracing and environment mapping; gameplay is carried out exclusively through keyboard control.
 
 ## Controls
 
