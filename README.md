@@ -16,7 +16,7 @@ This is a chess-like WebGL game where the objective is to capture the opponent's
 * LEFT/RIGHT/UP/DOWN - select position
 * ENTER - commit selection
 
-## Getting Started
+## Instructions
 
 Blue makes the first move. Press SPACE to enable selector, then the arrow keys to change highlighted square; press ENTER to select highlighted piece; use the arrow keys again to choose target position, then ENTER again to move the piece (if legal). Two players take turn making moves until one captures the other's king.
 
