@@ -20,6 +20,10 @@ This is a chess-like WebGL game where the objective is to capture the opponent's
 
 Blue makes the first move. Press SPACE to enable selector, then the arrow keys to change highlighted square; press ENTER to select highlighted piece; use the arrow keys again to choose target position, then ENTER again to move the piece (if legal). Two players take turn making moves until one captures the other's king.
 
+## Credits
+
+Computer Graphics course taught by professor László Szécsi at [Aquincum Institute of Technology](https://www.ait-budapest.com/) in Budapest, Hungary.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
